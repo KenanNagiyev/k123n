@@ -1,0 +1,229 @@
+*{
+    padding: 0;
+    margin:0;
+}
+nav i{
+    padding-left: 200px;
+    font-size: 50px;
+    color: blue;
+    padding-right: 10px;
+}
+nav span{
+    font-weight: bold;
+}
+nav li a{
+    
+    font-size: 20px;
+}
+.section-one{
+    width: 100%;
+    height: 600px;
+    background: no-repeat;
+    background-size: 100%;
+    background-image: url(https://azadqadin.az/uploads/posts/2013-12/1386246663_1358536944_1358482120_20.jpg);
+}
+.section-one .container{
+    display: flex;
+}
+.section-one .container .left{
+    width: 50%;
+    height: 600px;
+    
+}
+.section-one .container .right{
+    width: 50%;
+    height: 600px;
+}
+.section-one .container .right h1{
+    padding-top: 150px;
+    color: white;
+    font-size:70px
+}
+.section-one .container .right p{
+    padding-top: 30px;
+    color: white;
+    font-size:30px;
+}
+.section-one .container .right button .container{
+    display: flex;
+}
+.section-one .container .right button .container .q i {
+    width: 30px;
+    height: 30px;
+    padding-top: 20px;
+}
+.section-two{
+    width: 100%;
+    height: 300px;
+}
+.section-two .c{
+    display: flex;
+}
+.section-two .c i:hover{
+   color: green;
+   transition: 1s;
+}
+.section-two .c .box1{
+    position: relative;
+    left: 150px;
+}
+
+.section-two .c .box2 h3{
+    position: relative;
+    left: 100px;
+}
+.section-two .c i{
+    font-size: 5rem;
+    color: blue;
+}
+.section-three{
+    width: 100%;
+    height: 1100px;
+    background-color: rgb(232, 224, 224)
+}
+.section-three .container{
+    display: flex;
+}
+.section-three .container .left{
+    width: 50%;
+    height: 600px;
+}
+.section-three .container .right{
+    width: 50%;
+    height: 600px;
+    display: flex;
+}
+.section-three .y h1{
+    text-align: center;
+    color: blue;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.section-three .y h4{
+    text-align: center;
+    color: grey;
+    padding-bottom: 50px;
+}
+.section-three .container .right .m .f{
+    font-size: 70px;
+    
+}
+.section-three .container .right .m .l{
+    font-size: 70px;
+    padding-top: 110px;  
+}
+.section-three .container .right .m .j{
+    font-size: 70px;
+    padding-top: 140px;
+}
+.section-three .right h4{
+    color: blue;
+    font-size: 50px;
+}
+.section-three .right p{
+    color: grey;
+    font-size: 25px;
+}
+.section-foor{
+    width: 100%;
+    height: 400px;
+}
+.section-foor h1{
+    text-align: center;
+    color: blue;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.section-foor .container{
+    display: flex;
+}
+.section-foor .container .box1{
+    padding-left: 150px;
+}
+.section-foor .container .box2{
+    padding-left: 50px;
+}
+.section-foor .container .box3{
+    padding-left: 50px;
+}
+.section-five{
+    width: 100%;
+    height: 400px;
+    background-color:rgb(232, 224, 224) ;
+}
+.section-five h1{
+    padding-top: 50px;
+    text-align: center;
+    padding-bottom: 50px;
+    color: blue;
+}
+.section-five .swiper-slide p{
+    text-align: center;
+}
+.section-five .swiper-slide h4{
+    text-align: center;
+    color: blue;
+}
+.section-six {
+    width: 100%;
+    height: 800px;
+}
+.section-six .container{
+    width: 100%;
+    height: 200px;
+    display: flex;
+}
+.section-six .container .a{
+    width: 50%;
+}
+.section-six .container .b{
+    width: 50%;
+}
+.section-six h1{
+    text-align: center;
+    color: blue;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.section-six p{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.section-six .container .a input{
+    position: relative;
+    left: 100px;
+}
+.section-six .container .a label{
+    position: relative;
+    left: 100px;
+}
+.section-six .k input{
+    position: relative;
+    left: 450px;
+}
+.section-six .k label{
+    position: relative;
+    left: 450px;
+    
+}
+.section-six .l button{
+    width: 60%;
+    height: 50px;
+    position: relative;
+    top: 50px;
+    left: 450px;
+    
+}
+.footer{
+    width: 100%;
+    height: 300px;
+    background-color: grey;
+}
+.footer .w{
+    text-align: center;
+    padding-top: 100px;
+}
+.footer .p{
+    padding-left: 45%;
+    padding-top: 50px;
+}
